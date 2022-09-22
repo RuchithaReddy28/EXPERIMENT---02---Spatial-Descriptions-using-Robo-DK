@@ -25,7 +25,11 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 
 3.Select Target 1
 
+## OUTPUT
+![OUTPUT](https://github.com/RuchithaReddy28/EXPERIMENT---02---Spatial-Descriptions-using-Robo-DK/blob/main/kinematics.png?RAW=TRUE)
 
+## RESULT
+Thus, the spatial-Descriptions of the given ta is given target simulated Using Robo DK.
 
 
 
